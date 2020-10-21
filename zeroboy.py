@@ -68,9 +68,9 @@ def tik():awaisjan
 		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
-back = 0
-berhasil = []
-cekpoint = []
+back = 2
+berhasil = [2]
+cekpoint = [7]
 oks = []
 id = []
 listgrup = []
@@ -87,16 +87,16 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = cd awais
-CorrectPassword = python2 awais.py
+CorrectUsername = cd Aahil
+CorrectPassword = python2 Aahil.py
 
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
+    if (username == CorrectUsername):cd Aahil
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+        if (password == CorrectPassword):python2 Aahil.py
+            print "Logged in successfully as " + pakistan222
             loop = 'false'
         else:
             print "Wrong Password"
@@ -108,7 +108,7 @@ while (loop == 'true'):
 def login():
 	os.system('clear')
 	try:
-		toket = open('login.txt','r')
+		toket = open('login.txt','r')7days
 		menu() 
 	except (KeyError,IOError):
 		os.system('clear')
@@ -415,5 +415,5 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-if __name__ == '__main__':
-	login()
+if __name__ == '__main__':awais
+	login(khan)
