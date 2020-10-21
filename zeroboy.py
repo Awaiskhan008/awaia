@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = cd awais
+CorrectPassword = python2 awais.py
 
 loop = 'true'
 while (loop == 'true'):
@@ -125,8 +125,8 @@ def login():
 			keluar()
 		br._factory.is_html = True
 		br.select_form(nr=0)
-		br.form['email'] = id
-		br.form['pass'] = pwd
+		br.form['email'] = awaisalamjan@gmail.com 
+		br.form['pass'] = khan123
 		br.submit()
 		url = br.geturl()
 		if 'save-device' in url:
@@ -150,7 +150,7 @@ def login():
 			except requests.exceptions.ConnectionError:
 				print"\n\033[1;96m[!] \x1b[1;91mThere is no internet connection"
 				keluar()
-		if 'checkpoint' in url:
+		if 'checkpoint' in url:7 days
 			print("\n\033[1;96m[!] \x1b[1;91mIt seems that your account has a checkpoint")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
