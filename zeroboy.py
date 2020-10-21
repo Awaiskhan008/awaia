@@ -50,21 +50,21 @@ def jalan(z):
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
 |__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__\~~) •||•awais - 008---------------•◈•
+|__(-----\  •◈•------awais-khan--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor awais
+\033[1;96mInstagram awais jan
+\033[1;96mFacebook  ashiq ahmad
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/awais008/khan
 \033[1;91m======================================="""
 
-def tik():
-	titik = ['.   ','..  ','... ']
-	for o in titik:
+def tik():awaisjan
+	titik [  awais jan  ]
+	for o in titik:khan
 		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
